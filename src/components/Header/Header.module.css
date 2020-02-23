@@ -1,0 +1,23 @@
+.AppHeader {
+    grid-area: header;
+    background: rgb(255, 252, 252);
+    background: linear-gradient(180deg, rgba(255, 252, 252, 1) 0%, rgba(255, 0, 0, 1) 100%);
+    display: flex;
+}
+
+.AppHeaderImage {
+    width: 1fr;
+}
+
+.AppHeaderImage img {
+    width: 100%;
+}
+
+.AppHeaderName {
+    width: 100%;
+    text-align: center;
+}
+
+.AppHeaderName h1 {
+    margin: 0;
+}

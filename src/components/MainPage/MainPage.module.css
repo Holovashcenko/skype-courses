@@ -1,0 +1,13 @@
+.AppMainPage {
+    grid-area: content;
+    background: rgb(121, 107, 55);
+}
+
+.AppMainPage img {
+    width: 100%;
+    max-height: 300px;
+}
+
+.AppMainPage p {
+    margin: 0;
+}
